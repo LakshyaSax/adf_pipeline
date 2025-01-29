@@ -12,8 +12,8 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"variableName": "Test",
-					"value": ""
+					"variableName": "pipelineReturnValue",
+					"setSystemVariable": true
 				}
 			}
 		],
