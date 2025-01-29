@@ -1,0 +1,9 @@
+{
+	"name": "Githubadfpipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbda431e-b590-4b0f-be7f-acd064be837a",
+		"tenantId": "6a75f3d9-c2b8-4d4b-9e35-3d9e6960fed1"
+	}
+}
