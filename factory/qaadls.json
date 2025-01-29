@@ -1,0 +1,9 @@
+{
+	"name": "qaadls",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f836b30-e7f0-4b27-bb4a-e44b396e86c4",
+		"tenantId": "6a75f3d9-c2b8-4d4b-9e35-3d9e6960fed1"
+	}
+}
